@@ -4,6 +4,7 @@
 # Idea
 .idea/
 *.iml
+out/
 
 # Visual Studio Code
 .vscode/
